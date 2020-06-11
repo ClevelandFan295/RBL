@@ -6217,18 +6217,7 @@
       "mid": 0
     }
   ],
-  "events": [
-    {
-      "type": "newLeague",
-      "text": "June 29th, 2020. After 3 and a half months of COVID-19 lockdown, the NBA will be starting up again, with the top 22 teams playing 8 more regular season games before the playoffs. Good luck!",
-      "tids": [
-        0
-      ],
-      "score": 20,
-      "season": 2020,
-      "eid": 0
-    }
-  ],
+  "events": [],
   "scheduledEvents": [
     {
       "type": "gameAttributes",
